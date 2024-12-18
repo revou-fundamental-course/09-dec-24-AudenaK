@@ -241,13 +241,17 @@ textarea {
     flex: 1;
     font-style: italic;
     color: #555;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .testimonial-name {
     text-align: right;
     font-weight: bold;
     color: #333;
-    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
 }
 
 .benefits ul {
