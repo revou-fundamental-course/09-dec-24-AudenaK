@@ -21,7 +21,6 @@ document.addEventListener('DOMContentLoaded', function () {
     setInterval(showNextSlide, 3000);
 });
 
-
 document.getElementById('contactForm').addEventListener('submit', function(event) {
     event.preventDefault(); // Mencegah pengiriman formulir secara default
 
